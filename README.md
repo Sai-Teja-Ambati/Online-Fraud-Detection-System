@@ -1,4 +1,4 @@
-#### Online-Fraud-Detection-System
+####Online-Fraud-Detection-System
 Developed an online fraud detection system using the PaySim dataset. The project includes EDA, data preprocessing, PCA, feature selection, and classification models (Logistic Regression, SVM, Decision Tree). The Decision Tree emerged as the best model. Also implemented a voting ensemble classifier to improve prediction accuracy.
 
 This repository contains a comprehensive machine learning pipeline for detecting online fraud, utilizing the PaySim dataset. The project includes Exploratory Data Analysis (EDA), data preprocessing, dimensionality reduction with PCA, feature selection, and individual classification models. The decision tree classifier emerged as the best-performing model for the balanced PaySim dataset.
